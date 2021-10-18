@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Pentesting
 - 🌱 I’m currently learning For The OSCP
-- 🥅 2020 Goals: Pen-100 , Pen-200 , Pen-210
+- 🥅 2022 Goals: Pen-100 , Pen-200 , Pen-210
 - 📫 How to reach me :
 <p align="left">
 <a href="https://twitter.com/m1nd_mast3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m1nd_mast3r" height="30" width="40" /></a>
