@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Pen-100 , Pen-200 , Pen-210
 - 📫 How to reach me :
 <p align="left">
-<a href="https://tryhackme.com/p/Mast3rM1nd" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Mast3rM1nd.png" alt="tryhackme" height="50" width="70"/></a>
+<a href="https://tryhackme.com/p/Mast3rM1nd" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/92652606/137932758-749d844e-cf62-4e95-b097-84437d45d729.png" alt="tryhackme" height="50" width="70"/></a>
 <a href="https://app.hackthebox.eu/profile/110489" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92652606/137820911-f4353cea-6381-46cc-a296-819263ba5b5e.jpg" alt="m1nd_mast3r" height="30" width="40" /></a>
 <a href="https://twitter.com/m1nd_mast3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m1nd_mast3r" height="30" width="40" /></a>
 </p>
