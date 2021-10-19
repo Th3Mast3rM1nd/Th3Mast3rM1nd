@@ -1,4 +1,4 @@
-![Th3Mast3rM1nd](https://user-images.githubusercontent.com/92652606/137818391-2b4a1376-b243-4f89-bd22-8841e417f0c4.jpg)
+![Th3Mast3rM1nd](https://user-images.githubusercontent.com/92652606/137909930-5d0780a7-60c1-429a-9a91-ee599a5cb057.png)
 
 <h1 align="center">👋 Hi, I’m @Th3Mast3rM1nd</h1>
 
