@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Pentesting
 - 🌱 I’m currently learning For The OSCP
-- 🥅 2022 Goals: Pen-100 , Pen-200 , Pen-210
+- 🥅 2022 Goals Pen-200
 - 📫 How to reach me :
 <p align="left">
 <a href="https://app.hackthebox.eu/profile/110489" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92652606/137820911-f4353cea-6381-46cc-a296-819263ba5b5e.jpg" alt="m1nd_mast3r" height="30" width="40" /></a>
